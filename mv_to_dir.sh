@@ -1,6 +1,6 @@
 #!/bin/bash
 umask22
-transferDir="/home/sully/move_test,/tmp"
+transferDirs="/home/sully/move_test,/tmp"
 
 #transfer day
 dayCount=3
