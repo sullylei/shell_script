@@ -1,3 +1,5 @@
 # shell_script
 mv_to_dirs.sh脚本用于把目录下的文件按修改时间，分别保存到日期文件夹中
 useful_shell_script.sh记录有用的shell命令
+clean_log_use_rate.sh 按目录的使用率清理空间
+cleanLog.sh按天清理日志
